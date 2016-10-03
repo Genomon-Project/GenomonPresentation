@@ -6,7 +6,7 @@ http://genomon-project.github.io/GenomonPresentation/index.html
 
 ## poster
 
-2015/10:
+2015/10:　The 75th Annual Meeting of the Japanese Cancer Association
 
 [GenomonPipeline.pptx](http://genomon-project.github.io/GenomonPresentation/GenomonPipeline.pptx)
 
