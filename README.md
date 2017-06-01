@@ -8,7 +8,7 @@ http://genomon-project.github.io/GenomonPresentation/index.html
 
 2017/5: NGS現場の会第五回研究会
 
- - [paplot_201705.pptx](http://genomon-project.github.io/GenomonPresentation/paplot/paplot_201705.pptx)  [[PDF]](http://genomon-project.github.io/GenomonPresentation/paplot/paplot_201705.pdf)
+ - [paplot_201705.pptx](http://genomon-project.github.io/GenomonPresentation/paplot/paplot_201705.pptx)
 
 
 2016/10: The 76th Annual Meeting of the Japanese Cancer Association
